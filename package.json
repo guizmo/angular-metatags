@@ -1,0 +1,12 @@
+{
+  "name": "angular-metatags",
+  "version": "1.0.0",
+  "description": "AngularJS Module to dynamically provide metatags based on the path.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/angular.js.git"
+  },
+  "author": "Avraam Mavridis",
+  "homepage": "http://angularjs.org"
+}
